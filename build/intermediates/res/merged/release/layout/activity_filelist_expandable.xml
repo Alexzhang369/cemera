@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   <!--
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_height="48dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@color/color_project_top_bg">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="文档"
+            android:textSize="20sp"
+            android:textColor="@color/color_white"/>
+
+    </LinearLayout>
+
+    -->
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_height="20dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white">
+        </LinearLayout>
+
+
+    <ScrollView
+        android:id="@+id/filelist_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+           <!-- <ListView
+                android:id="@+id/qqlist_classify"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="#000000"
+                android:dividerHeight="0px"
+                android:fadingEdge="none"
+                android:visibility="invisible"/>
+                -->
+
+
+            <ExpandableListView
+                android:id="@+id/file_list"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:divider="#888888"
+                android:dividerHeight="0px"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="0dp"
+                android:background="@color/color_bg_White"
+                android:fadingEdge="none"/>
+
+
+            <!-- <ListView
+                 android:id="@+id/qqlist_classify_down"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:divider="#000000"
+                 android:visibility="invisible"
+                 android:dividerHeight="0px"/>
+                 -->
+
+
+         </LinearLayout>
+
+
+     </ScrollView>
+
+
+ </LinearLayout>

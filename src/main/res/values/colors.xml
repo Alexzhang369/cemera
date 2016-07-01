@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGreen">#66CDAA</color>
+    <color name="colorGrey">#888888</color>
+    <color name="colorBlue">#01aff4</color>
+    <color name="color_bg_White">#ffffff</color>
+    <color name="color_login_bg">#f2f2f2</color>
+    <color name="color_login_border">#c4c4c4</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="color_lg_yes">#ffffff</color>
+    <color name="color_lg_no">#a9a9a9</color>
+    <color name="color_lg_btn_bg">#1e90e3</color>
+    <color name="color_forget">#646464</color>
+
+    <color name="bg_grey">#f1f0f6</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_project_top_bg">#343434</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="black_top">#343434</color>
+    <color name="red">#FFFF0000</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="green">#FF00FF00</color>
+    <color name="link">#E02A5CAA</color>
+    <color name="title">#FF29B5EA</color>
+    <color name="silver">#FFA1A3A6</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_0">#80F6F6F6</color>
+    <color name="grey_1">#FFE3E3E3</color>
+    <color name="grey_2">#FFDDDDDD</color>
+    <color name="grey_3">#FFCCCCCC</color>
+    <color name="grey_4">#FF999999</color>
+    <color name="text_grey">#FF828282</color>
+    <color name="grey_6">#FF4D4D4D</color>
+    <color name="grey_7">#804D4D4D</color>
+    <color name="border_grey">#FFCCCCCC</color>
+
+    <color name="yellow">#ff9900</color>
+    <color name="blue_1">#0099cc</color>
+
+
+    <color name="tab_indicator">#4784e0</color>
+    <color name="title_bg">#2f3535</color>
+    <color name="update_dialog_stroke">#0055aa</color>
+    <color name="blank">#000000</color>
+
+
+
+
+
+    <color name="none">#00000000</color>
+
+
+    <color name="DeepSkyBlue">#00BFFF</color>
+
+
+    <color name="whiteSmoke">#F5F5F5</color>
+    <!-- #DCDCDC  	Gainsboro  	淡灰色 -->
+    <color name="gainsboro">#0ADCDCDC</color>
+    <color name="detail_bg">#B5B5B5</color>
+
+    <color name="btn_normal_state">#ffa4e700</color>
+    <color name="btn_selected_state">#ff86e700</color>
+    <color name="btn_pressed_state">#ffc8e700</color>
+
+    <color name="button_bar_bg">#10Ab0000</color>
+
+    <!--<color name="">#068806cc</color>
+    <color name="">#f68860cc</color>
+    <color name="">#086608cc</color>-->
+
+    <!-- action bar  -->
+    <color name="actionbar_separator">#8B1A1A</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#8B1A1A</color>
+    <color name="actionbar_background_end">#CD2626</color>
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+
+    <color name="dark_black">#1f1f1f</color>
+    <color name="undertone">#ededed</color>
+
+
+
+    <color name="sidebar_item_background_activated_dark">#ff4c365d</color>
+    <color name="common_bg">#ffe6e6e6</color>
+    <color name="text_black">#ff333333</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="text_gray">#ff777777</color>
+    <color name="text_black_disabled">#80333333</color>
+    <color name="text_white_disabled">#80ffffff</color>
+    <color name="text_shadow_color">#66000000</color>
+    <color name="color_hei">#ff000000</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="color_zhonghui">#ff798089</color>
+    <color name="color_bai">#ffffffff</color>
+    <color name="color_bai_8">#ffffffff</color>
+    <color name="color_lan">#ff067bb1</color>
+    <color name="halftransparent">#aa000000</color>
+    <color name="window_bg">#00eef1f3</color>
+
+    <color name="chat_background">@color/window_bg</color>
+    <color name="chat_time">@color/color_bai</color>
+    <color name="screenshot_normal">#3f000000</color>
+    <color name="screenshot_pressed">#bf000000</color>
+    <color name="qq_normal">@color/color_hei</color>
+
+    <color name="video_bg_color">#ffecf3f9</color>
+    <color name="color_divider">#ffdddddd</color>
+    <color name="sqqname">#ffee860a</color>
+    <color name="thirty_transparent_black">#4d000000</color>
+    <color name="twenty_transparent_black">#33000000</color>
+    <color name="contact_category_text">#ff454a52</color>
+    <color name="contact_category_text_focused">#ff4686b3</color>
+    <color name="sc_transparent_black">#7f000000</color>
+    <color name="sc_black">#ff000000</color>
+    <color name="sc_white">@color/color_bai_8</color>
+    <color name="sc_transparent">#00ffffff</color>
+    <color name="sc_gray">#ff777777</color>
+    <color name="sc_name">#ff5fc4ff</color>
+    <color name="sc_transparent_background">@color/color_hei_8</color>
+    <color name="tag_textview1">#ff795028</color>
+    <color name="tag_textview2">#ff4a7928</color>
+    <color name="tag_textview3">#ff284479</color>
+    <color name="link_color">#ff13679d</color>
+    <color name="info_card_qzonepic_default">#ffdedede</color>
+    <color name="action_sheet_point">#ff5f6268</color>
+    <color name="action_sheet_curr_point">#ff9fa1a4</color>
+    <color name="setting_aio_text_size_normal">#ff151617</color>
+    <color name="chat_bubble_btn_text">#ffa86700</color>
+    <color name="custom_theme_color">#66000000</color>
+    <color name="gray">#ff777777</color>
+    <color name="button_reply_normal">#ffffffff</color>
+    <color name="qzone_feeditem_sel">#fff1f1f1</color>
+    <color name="qzone_feeditem_nor">#fffafafa</color>
+
+    <drawable name="trans">@color/color_hei_8</drawable>
+
+    <item name="preview_btn_bg_press" type="drawable">#ff000000</item>
+
+
+
+
+</resources>

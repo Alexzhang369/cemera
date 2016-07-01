@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_finish.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\activity_finish.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_enter.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\sc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_enter.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\sc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_out_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\tips_slip_out_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_exit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\sc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_finish.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\activity_finish.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_out.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\activity_2_enter_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_out_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\tips_slip_out_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_back.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\activity_back.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_in_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\tips_slip_in_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\activity_new.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\activity_new.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\connection.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\connection.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_in.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\activity_2_enter_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\activity_out.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\activity_2_enter_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_new.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\activity_new.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\connection.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\connection.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\connection.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\connection.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_exit.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\sc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\activity_2_enter_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_new.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\activity_new.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\activity_2_enter_in.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_in_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\tips_slip_in_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_enter.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\sc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_exit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\sc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\activity_finish.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\activity_finish.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_in_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\tips_slip_in_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_back.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\activity_back.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\activity_2_enter_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\activity_back.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\activity_back.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_out_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\anim\\tips_slip_out_top.xml"
+    },
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

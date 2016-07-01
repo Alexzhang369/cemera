@@ -1,0 +1,756 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_grey"
+    >
+
+    <!-- Login progress -->
+
+
+    <!--项目 -->
+
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_height="48dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="全部任务"
+            android:textSize="16sp"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/iv_task1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"
+            android:clickable="true"
+            android:src="@mipmap/task2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+
+
+            />
+        <ImageView
+            android:id="@+id/iv_task2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"
+            android:clickable="true"
+            android:src="@mipmap/task2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+
+            />
+        <ImageView
+            android:id="@+id/iv_task3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"
+            android:clickable="true"
+            android:src="@mipmap/task2"
+
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            />
+
+
+    </LinearLayout>
+    
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey_4"
+        ></View>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#01aff4"
+        android:layout_marginTop="12dp"
+
+        >
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grey_3"
+            ></View>
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="@color/bg_grey"
+            android:orientation="horizontal"
+            android:layout_gravity="right">
+
+            <TextView
+                android:id="@+id/tv_progress_num"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="项目成员"
+                android:textSize="16sp"
+                android:textColor="@color/text_grey"/>
+
+            <TextView
+                android:id="@+id/tv_progress_number"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="200dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_alignRight="@+id/tv_progress_num"
+                android:text="36人"
+                android:textSize="16sp"
+
+                android:textColor="@color/text_grey"/>
+
+            <ImageView
+                android:id="@+id/iv_open_arrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="matrix"
+                android:clickable="true"
+                android:gravity="right"
+                android:src="@mipmap/open_arrow"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="5dp"
+
+                android:layout_alignRight="@+id/tv_progress_number"
+                />
+
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grey_3"
+            ></View>
+
+
+
+
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:id="@+id/ll_dongtai"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="0.06"
+
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:layout_height="100dp"
+                        android:layout_width="100dp"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_weight="0.06"
+                        android:background="@drawable/progress_border_green"
+                        android:layout_gravity="center"
+                        android:gravity="center">
+
+
+                    <TextView
+                        android:id="@+id/tv_prgress_dongtai"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="10"
+                        android:layout_gravity="center"
+                        android:textSize="30sp"
+                        android:textColor="@color/colorGreen"
+                        android:layout_margin="10px"
+                        />
+
+                        </LinearLayout>
+
+
+
+                    <TextView
+                        android:id="@+id/tv_prgress_dongtai1"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="项目动态"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_grey"
+                        android:layout_margin="10px"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_days"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="0.06"
+
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:layout_height="100dp"
+                        android:layout_width="100dp"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_weight="0.06"
+                        android:background="@drawable/progress_border_yellow"
+                        android:layout_gravity="center"
+                        android:gravity="center">
+
+
+                        <TextView
+                            android:id="@+id/tv_prgress_days"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="8dp"
+                            android:layout_marginRight="8dp"
+                            android:layout_marginBottom="5dp"
+                            android:text="10"
+                            android:layout_gravity="center"
+                            android:textSize="30sp"
+                            android:textColor="@color/yellow"
+                            android:layout_margin="10px"
+                            />
+
+                    </LinearLayout>
+
+
+
+                    <TextView
+                        android:id="@+id/tv_prgress_days1"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="进行天数"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_grey"
+                        android:layout_margin="10px"
+                        />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/ll_totaltask"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="0.06"
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:layout_height="100dp"
+                        android:layout_width="100dp"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_weight="0.06"
+                        android:background="@drawable/progress_border_blue"
+                        android:layout_gravity="center"
+                        android:gravity="center">
+
+
+                        <TextView
+                            android:id="@+id/tv_prgress_totaltask"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="8dp"
+                            android:layout_marginRight="8dp"
+                            android:layout_marginBottom="5dp"
+                            android:text="10"
+                            android:layout_gravity="center"
+                            android:textSize="30sp"
+                            android:textColor="@color/blue_1"
+                            android:layout_margin="10px"
+                            />
+
+                    </LinearLayout>
+
+
+
+                    <TextView
+                        android:id="@+id/tv_prgress_totaltask1"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="总任务数"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_grey"
+                        android:layout_margin="10px"
+                        />
+
+                </LinearLayout>
+                <!--
+                <ImageView
+                    android:id="@+id/imageView312"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:clickable="true"
+                    android:src="@mipmap/building_img"
+                    android:layout_alignParentEnd="true"/>
+
+                    -->
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="12dp"
+
+        android:layout_marginRight="12dp"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+
+            >
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey_3"
+                ></View>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="项目动态"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#666666"
+                    android:textSize="14sp"
+                    android:id="@+id/tv_weather" />
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="72dp"
+                        android:orientation="horizontal"
+
+                        >
+                        <LinearLayout
+                            android:layout_width="60dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+
+                            >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/iv_project_4"
+                            android:scaleType="matrix"
+                            android:clickable="true"
+                            android:src="@mipmap/yuan_icon1"
+                            android:gravity="center"
+                            android:layout_marginTop="1dp"
+                            android:layout_marginBottom="1dp"
+                            android:layout_marginLeft="1dp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                >
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="jackforset"
+                                android:textColor="@color/blue_1"
+                                android:textSize="16sp"
+                                android:layout_marginTop="18dp"
+                                android:layout_marginLeft="18dp"
+                                android:id="@+id/tv_progress_project98" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="添加了项目成员"
+                                android:textColor="#555555"
+                                android:textSize="16sp"
+                                android:layout_marginTop="18dp"
+                                android:layout_marginLeft="18dp"
+                                android:id="@+id/tv_progress_project96" />
+                              </LinearLayout>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="提醒大家本月底一定要按时完成开发计划"
+                                android:textColor="#555555"
+                                android:textSize="12sp"
+                                android:layout_marginTop="5px"
+                                android:layout_marginLeft="18dp"
+                                android:id="@+id/tv_project_assig99n" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="72dp"
+                        android:orientation="horizontal"
+
+                        >
+                        <LinearLayout
+                            android:layout_width="60dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center"
+
+
+                            >
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/iv_project_289"
+                                android:scaleType="matrix"
+                                android:clickable="true"
+                                android:src="@mipmap/yuan_icon1"
+                                android:gravity="center"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:layout_marginLeft="1dp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+
+
+                            >
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                >
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="jackforset"
+                                    android:textColor="@color/blue_1"
+                                    android:textSize="16sp"
+                                    android:layout_marginTop="18dp"
+                                    android:layout_marginLeft="18dp"
+                                    android:id="@+id/tv_progress_project339" />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="添加了项目成员"
+                                    android:textColor="#555555"
+                                    android:textSize="16sp"
+                                    android:layout_marginTop="18dp"
+                                    android:layout_marginLeft="18dp"
+                                    android:id="@+id/tv_progress_project269" />
+                            </LinearLayout>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="提醒大家本月底一定要按时完成开发计划"
+                                android:textColor="#555555"
+                                android:textSize="12sp"
+                                android:layout_marginTop="5px"
+                                android:layout_marginLeft="18dp"
+                                android:id="@+id/tv_project_assign779" />
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="72dp"
+                        android:orientation="horizontal"
+
+                        >
+                        <LinearLayout
+                            android:layout_width="60dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center"
+
+
+                            >
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/iv_project_2"
+                                android:scaleType="matrix"
+                                android:clickable="true"
+                                android:src="@mipmap/yuan_icon1"
+                                android:gravity="center"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:layout_marginLeft="1dp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+
+
+                            >
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                >
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="jackforset"
+                                    android:textColor="@color/blue_1"
+                                    android:textSize="16sp"
+                                    android:layout_marginTop="18dp"
+                                    android:layout_marginLeft="18dp"
+                                    android:id="@+id/tv_progress_projec12t" />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="添加了项目成员"
+                                    android:textColor="#555555"
+                                    android:textSize="16sp"
+                                    android:layout_marginTop="18dp"
+                                    android:layout_marginLeft="18dp"
+                                    android:id="@+id/tv_progress_project4568" />
+                            </LinearLayout>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="BIMquan"
+                                android:textColor="@color/blue_1"
+                                android:textSize="12sp"
+                                android:layout_marginTop="5px"
+                                android:layout_marginLeft="18dp"
+                                android:id="@+id/tv_project_assign" />
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+
+
+                    </LinearLayout>
+
+
+
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+
+
+        <!--底部  <LinearLayout
+            android:id="@+id/bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#f1f0f6"
+            android:orientation="horizontal"
+            android:layout_gravity="end"
+            android:layout_alignParentBottom="true"
+            >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/iv_project"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:clickable="true"
+                    android:src="@mipmap/project_blue"
+                    android:layout_margin="5px"/>
+                <TextView
+                    android:id="@+id/tv_project"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="项目"
+                    android:textColor="#01aff4"
+                    android:textSize="24px" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/iv_contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:clickable="true"
+                    android:src="@mipmap/contact_gray"
+                    android:layout_margin="5px"/>
+                <TextView
+                    android:id="@+id/tv_contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="联系人"
+                    android:textColor="#888888"
+                    android:textSize="24px" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/iv_doc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:clickable="true"
+                    android:src="@mipmap/doc_gray"
+                    android:layout_margin="5px"/>
+                <TextView
+                    android:id="@+id/tv_doc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="文档"
+                    android:textColor="#888888"
+                    android:textSize="24px" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/iv_tool"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:clickable="true"
+                    android:src="@mipmap/tool_gray"
+                    android:layout_margin="5px"/>
+                <TextView
+                    android:id="@+id/tv_tool"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="工具"
+                    android:textColor="#888888"
+                    android:textSize="24px" />
+            </LinearLayout>
+
+        </LinearLayout>-->
+
+
+
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>
+
+

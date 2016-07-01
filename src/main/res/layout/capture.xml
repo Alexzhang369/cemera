@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="46dip"
+        android:background="@drawable/skin_header_bar_bg"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="小云拍"
+        android:textColor="@color/skin_bar_text"
+        android:textSize="19.0sp" />
+
+    <com.BIM.scrollview.BounceScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/coversation_bg"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        android:scrollbarThumbVertical="@drawable/scrollbar_handle_vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingLeft="10.0dip"
+            android:background="@drawable/shape_bg"
+            android:paddingRight="10.0dip" >
+
+            <ImageView
+                android:id="@+id/brand"
+                android:layout_width="70.0dip"
+                android:layout_height="70.0dip"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30.0dip"
+                android:contentDescription="@null"
+                android:src="@mipmap/xiaologo" />
+
+            <TextView
+                android:id="@+id/subVersion"
+                style="@style/D6_Font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/brand"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="3.0dip"
+                android:includeFontPadding="false"
+                android:text="@string/versionnum" />
+
+            <TextView
+                android:id="@+id/app_information"
+                style="@style/B4_Font_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="21dp"
+                android:duplicateParentState="true"
+                android:linksClickable="true"
+                android:paddingLeft="10.0dip"
+                android:paddingRight="10.0dip"
+                android:text="请选择拍摄照片或拍摄视频"
+                android:layout_below="@+id/subVersion"
+                android:layout_centerHorizontal="true" />
+
+            <LinearLayout
+                android:id="@+id/upgradeLayout"
+                android:layout_width="fill_parent"
+                android:layout_height="44.0dip"
+                android:layout_below="@id/app_information"
+                android:layout_marginTop="20.0dip"
+
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:gravity="center">
+
+                <Button android:id="@+id/capture2"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="拍摄视频"
+                    android:layout_width="300dp" android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/feedback"
+                android:layout_width="fill_parent"
+                android:layout_height="44.0dip"
+                android:layout_below="@id/upgradeLayout"
+
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:gravity="center">
+
+                <Button android:id="@+id/capture4"
+                    android:text="拍摄照片"
+                    android:layout_width="300dp" android:layout_height="wrap_content"
+                     />
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/list"
+                android:layout_width="fill_parent"
+                android:layout_height="44.0dip"
+                android:layout_below="@id/feedback"
+
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:gravity="center">
+
+                <Button android:id="@+id/btn_yun"
+                    android:text="查看云端"
+                    android:layout_width="300dp" android:layout_height="wrap_content"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                android:visibility="gone"
+                <Button android:id="@+id/capture1"
+                    android:text="capture video 1" android:visibility="gone"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+
+                <Button android:id="@+id/capture3"
+                    android:text="capture image 3" android:visibility="gone"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+
+                <ImageView android:id="@+id/iv"
+                    android:layout_width="fill_parent" android:layout_height="fill_parent"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/copyright"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="20.0dip"
+                android:gravity="bottom|center"
+                android:includeFontPadding="false"
+                android:singleLine="true"
+                android:text="@string/all_rights_reserved"
+                android:textColor="#ffbbbbbb"
+                android:textSize="12.0sp" />
+        </RelativeLayout>
+    </com.BIM.scrollview.BounceScrollView>
+
+</LinearLayout>
+

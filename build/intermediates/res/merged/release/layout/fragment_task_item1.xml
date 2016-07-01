@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:orientation="horizontal"
+
+        >
+
+        <LinearLayout
+            android:layout_width="45dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/iv_project_4"
+                android:scaleType="matrix"
+                android:clickable="true"
+                android:background="@drawable/task_box_selector_"
+                android:gravity="center"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="1dp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="45dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+
+
+            >
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/iv_project_2"
+                android:scaleType="matrix"
+                android:clickable="true"
+                android:src="@mipmap/yuan_icon1"
+                android:gravity="center"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="1dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="重要问题"
+                    android:textColor="@color/blue_1"
+                    android:textSize="16sp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginLeft="18dp"
+                    android:id="@+id/tv_progress_project" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="三维色彩不真实"
+                    android:textColor="#555555"
+                    android:textSize="16sp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginLeft="18dp"
+                    android:id="@+id/tv_progress_project9511" />
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="提醒大家本月底一定要按时完成开发计划"
+                android:textColor="#555555"
+                android:textSize="12sp"
+                android:layout_marginTop="5px"
+                android:layout_marginLeft="18dp"
+                android:id="@+id/tv_project_assign" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

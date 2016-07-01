@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   <!-- <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_height="48dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@color/color_project_top_bg">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="联系人"
+            android:textSize="20sp"
+            android:textColor="@color/color_white"/>
+
+    </LinearLayout>
+    -->
+
+
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_height="38dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/search_border"
+        android:gravity="center">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/color_bg_White"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:src="@mipmap/search"
+
+            />
+
+        <TextView
+            android:id="@+id/tv_contacts_search"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="搜索"
+            android:textSize="16sp"
+            android:textColor="@color/text_grey"/>
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#01aff4"
+        android:layout_marginTop="12dp"
+
+        >
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grey_3"
+            ></View>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/color_bg_White"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/ll_dongtai"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.06"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_height="45dp"
+                    android:layout_width="45dp"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_weight="0.06"
+
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+
+                    <ImageButton
+                        android:id="@+id/ib_fragment_contacts_company21"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="10"
+                        android:background="@color/color_bg_White"
+                        android:layout_gravity="center"
+                        android:textSize="30sp"
+                        android:textColor="@color/colorGreen"
+                        android:layout_margin="10px"
+                        android:src="@mipmap/company"
+                        />
+
+                </LinearLayout>
+
+
+
+                <TextView
+                    android:id="@+id/tv_prgress_dongtai1"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:text="友好企业"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="@color/text_grey"
+                    android:layout_margin="10px"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_days"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.06"
+
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_height="45dp"
+                    android:layout_width="45dp"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_weight="0.06"
+
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+
+                    <ImageButton
+                        android:id="@+id/ib_fragment_contacts_company41"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="10"
+                        android:background="@color/color_bg_White"
+                        android:layout_gravity="center"
+                        android:textSize="30sp"
+                        android:textColor="@color/colorGreen"
+                        android:layout_margin="10px"
+                        android:src="@mipmap/group"
+                        />
+
+                </LinearLayout>
+
+
+
+                <TextView
+                    android:id="@+id/tv_prgress_days1"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:text="群"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="@color/text_grey"
+                    android:layout_margin="10px"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_fragment_totaltask"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.06"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_height="45dp"
+                    android:layout_width="45dp"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_weight="0.06"
+
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+
+                    <ImageButton
+                        android:id="@+id/ib_fragment_contacts_company"
+                        android:layout_height="45dp"
+                        android:layout_width="45dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="10"
+                        android:background="@color/color_bg_White"
+                        android:layout_gravity="center"
+                        android:textSize="30sp"
+                        android:textColor="@color/colorGreen"
+                        android:layout_margin="10px"
+                        android:src="@mipmap/talks"
+                        />
+
+                </LinearLayout>
+
+
+
+                <TextView
+                    android:id="@+id/tv_prgress_totaltask12"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:text="多人会话"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="@color/text_grey"
+                    android:layout_margin="10px"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll_totaltask"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="0.06"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_height="45dp"
+                    android:layout_width="45dp"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_weight="0.06"
+
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/ib_contacts_compa1ny"
+                        android:layout_height="45dp"
+                        android:layout_width="45dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="10"
+                        android:background="@color/color_bg_White"
+                        android:layout_gravity="center"
+                        android:textSize="30sp"
+                        android:textColor="@color/colorGreen"
+                        android:layout_margin="10px"
+                        android:src="@mipmap/custom"
+                        />
+                </LinearLayout>
+
+
+
+                <TextView
+                    android:id="@+id/tv_prgress_totaltask1"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:text="自定义组"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="@color/text_grey"
+                    android:layout_margin="10px"
+                    />
+
+            </LinearLayout>
+
+            <!--
+            <ImageView
+                android:id="@+id/imageView312"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="matrix"
+                android:clickable="true"
+                android:src="@mipmap/building_img"
+                android:layout_alignParentEnd="true"/>
+
+                -->
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grey_3"
+            ></View>
+
+        <LinearLayout
+            android:layout_height="40dp"
+            android:layout_width="match_parent"
+            android:background="@color/color_bg_White"
+            android:orientation="horizontal"
+            android:layout_gravity="right">
+
+            <TextView
+                android:id="@+id/tv_progress_num1"
+
+                android:layout_marginLeft="20dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="组织结构"
+                android:textSize="16sp"
+                android:layout_gravity="center_vertical"
+                android:textColor="@color/text_grey"/>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grey_3"
+            ></View>
+
+        <LinearLayout
+            android:layout_height="50dp"
+            android:layout_width="match_parent"
+            android:background="@color/color_bg_White"
+            android:orientation="horizontal"
+            android:layout_gravity="right">
+            <LinearLayout
+                android:layout_height="45dp"
+                android:layout_width="45dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+
+                <ImageButton
+                    android:id="@+id/ib_contacts_company"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:text="10"
+                    android:background="@color/color_bg_White"
+                    android:layout_gravity="center"
+                    android:textSize="30sp"
+                    android:textColor="@color/colorGreen"
+                    android:layout_margin="10px"
+                    android:src="@mipmap/manage"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+
+            <TextView
+                android:id="@+id/tv_progress_num2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="管理员"
+                android:textSize="16sp"
+                android:textColor="@color/text_grey"/>
+
+                <TextView
+                    android:id="@+id/tv_progress_num3"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="管理员"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_grey"/>
+
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/grey_3"
+            ></View>
+
+
+
+    </LinearLayout>
+
+
+
+
+    <ScrollView
+        android:id="@+id/filelist_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ExpandableListView
+                android:id="@+id/contacts_list"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:divider="#888888"
+                android:dividerHeight="0px"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="0dp"
+                android:background="@color/color_bg_White"
+                android:fadingEdge="none"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_xmpptalk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="进入聊天"
+                />
+
+        </LinearLayout>
+
+        </LinearLayout>
+
+
+        </ScrollView>
+
+
+ </LinearLayout>

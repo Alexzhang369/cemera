@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Work\\BuilderTalk\\BIM\\build\\intermediates\\res\\merged\\debug\\raw\\office.mp3",
+        "source": "E:\\Work\\BuilderTalk\\BIM\\src\\main\\res\\raw\\office.mp3"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\build\\intermediates\\res\\merged\\debug\\raw\\office.mp3",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\云拍\\src\\main\\res\\raw\\office.mp3"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\build\\intermediates\\res\\merged\\debug\\raw\\office.mp3",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\FileManager\\小云拍\\src\\main\\res\\raw\\office.mp3"
+    }
+]

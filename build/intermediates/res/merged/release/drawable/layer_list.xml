@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item >
+        <shape >
+            <solid android:color="#cccccc"/>
+        </shape>   <!--上面是第一个图层-->
+    </item>
+
+    <item android:left="1dip" android:top="1dip" android:right="1dip" android:bottom="0dip">
+        <!-- 上面一行是设置哪个边框的关键步骤，即第二个图层比第一个图层闪出来的边框！ -->
+        <shape >
+            <solid android:color="#f0f0f0"/>
+
+        </shape>
+    </item>
+
+</layer-list>

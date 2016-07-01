@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".activity.Activity_Main" >
+
+
+    <FrameLayout
+        android:id="@+id/main_content_mes_task_pro"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/tab_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:layout_margin="5dp">
+
+        <RadioButton
+            android:id="@+id/project"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector_checked_bg"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_selector_weixing"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="项目"
+            android:textColor="@drawable/tab_selector_textcolor" />
+
+        <RadioButton
+            android:id="@+id/contacts"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector_checked_bg"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_selector_tongxunlu"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="联系人"
+            android:textColor="@drawable/tab_selector_textcolor"
+            android:checked="false" />
+
+        <RadioButton
+            android:id="@+id/docs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector_checked_bg"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_selector_faxian"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="文档"
+            android:textColor="@drawable/tab_selector_textcolor"
+            android:checked="false" />
+
+        <RadioButton
+            android:id="@+id/tools"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector_checked_bg"
+            android:button="@null"
+            android:drawableTop="@drawable/tab_selector_wo"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="2dp"
+            android:text="工具"
+            android:textColor="@drawable/tab_selector_textcolor"
+            android:checked="false" />
+    </RadioGroup>
+
+
+
+</LinearLayout>

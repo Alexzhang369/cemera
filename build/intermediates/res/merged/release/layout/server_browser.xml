@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+    <LinearLayout android:id="@+id/controller" android:orientation="vertical"
+        android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/upload_btn"
+                android:text="上传" android:layout_weight="1"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+
+            <Button android:id="@+id/choose_btn"
+                android:text="选择" android:layout_weight="1"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+
+            <Button android:id="@+id/back_btn" 
+                android:text="返回" android:layout_weight="1"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+
+            <Button android:id="@+id/stop_btn"
+                android:text="停止" android:layout_weight="1"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+        <ProgressBar android:id="@+id/progress_bar"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            style="?android:attr/progressBarStyleHorizontal"
+            
+            android:layout_marginTop="8dip" android:visibility="visible"
+            android:minHeight="6dip" android:maxHeight="6dip"
+            android:progress="1"
+            android:layout_marginLeft="4dip" android:layout_marginRight="4dip"
+            android:paddingLeft="4dip" android:paddingRight="4dip"
+            android:progressDrawable="@drawable/custom_yellow_color_seekbar_style"/>
+
+        <TextView android:id="@+id/upload_txt"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:paddingLeft="3dip"/>
+    </LinearLayout>
+
+    <TextView android:text="当前路径" android:id="@+id/path"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:paddingLeft="3dip"/>
+
+    <ListView android:id="@+id/files" android:dividerHeight="0dip"
+        android:cacheColorHint="@color/transparent" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/color_bg_White"/>
+
+</LinearLayout>
